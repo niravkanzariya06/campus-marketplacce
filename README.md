@@ -994,14 +994,7 @@ tail -f backend/logs/app.log  # (if logging configured)
 
 ---
 
-## 👨‍💻 Author
 
-**Nikunj Makwana**
-
-- 🌐 GitHub: [@Makwana-Nikunj](https://github.com/Makwana-Nikunj)
-- 💼 LinkedIn: [Nikunj Makwana](https://linkedin.com/in/nikunjmakwana)
-
----
 
 ## 📄 License
 
