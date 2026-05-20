@@ -1,0 +1,18 @@
+{
+  "breakpoints": [
+    375,
+    640,
+    768,
+    1024,
+    1280
+  ],
+  "out": "./src/bones",
+  "wait": 800,
+  "routes": [
+    "/",
+    "/browse",
+    "/profile",
+    "/chat",
+    "/product/mock-detail"
+  ]
+}
